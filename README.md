@@ -15,9 +15,24 @@ This analysis focuses on the Airbnb dataset from 2008 to 2012, providing insight
 Principal findings from this dataset:
 
 1- Brooklyn City has the greatest rating, with a 92.36 average rating score, while Staten Island has the lowest rating.
+
+![image](https://github.com/user-attachments/assets/4dc99de5-90b3-4e2b-9267-c83d088e1df8)
+
+
 2- Based on the number of beds available in each type of room, Manhattan City is the best city, while Staten Island is the worst.
+
+![image](https://github.com/user-attachments/assets/ec3e3bba-66a6-4260-94d6-4be9af880ee4)
+
+
 3- Lighthouse has the lowest average price and Other Property Type has the highest average price.
+
+![image](https://github.com/user-attachments/assets/b72dd92a-7914-4122-8459-2ab9cd47c094)
+
+
 4- Staten Island had the lowest price contribution while Manhattan Neighborhood had the highest
+
+![image](https://github.com/user-attachments/assets/249d8af9-e09a-4ec0-950d-627fccf1547b)
+
  
 
 
